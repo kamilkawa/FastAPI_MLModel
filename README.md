@@ -22,8 +22,8 @@ Projekt wykorzystuje narzędzie `uv` do zarządzania zależnościami i środowis
 
 1. Sklonuj repozytorium:
    ```bash
-   git clone <adres-repozytorium>
-   cd zadanie-python
+   git clone https://github.com/kamilkawa/FastAPI_MLModel.git
+   cd FastAPI_MLModel
    ```
 
 2. Zainstaluj zależności:
